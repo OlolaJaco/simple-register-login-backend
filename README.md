@@ -1,0 +1,1 @@
+Making a simple backend user Register and Login, using Bcrypt to hash user password and express-session to store ever login session
